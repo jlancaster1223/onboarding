@@ -22,7 +22,7 @@ $name = $nameArray[$_GET['n']];
         </div>
         <div class="slide active">
             <div class="slide__container">
-                <img src="/_assets/header-logo.svg" alt="" style="margin-top:20px;text-align:center;">
+                <img src="https://placehold.co/120x80" alt="" style="margin-top:20px;text-align:center;">
                 <h1>Welcome<?= $name; ?></h1>
                 <p>We're thrilled to have you as part the team!</p>
                 <p>In the next couple of slides, we're going to cover a few of the basics and hopefully answer a couple of those first day questions that you might have.</p>
@@ -46,7 +46,7 @@ $name = $nameArray[$_GET['n']];
                 <p>You'll primarily be working with 3 people<?=$name;?> & a couple of other key individuals you'll see around the office.</p>
                 <p>Here's a quick overview of the team:</p>
                 <div class="teamrow">
-                    <img src="/_assets/staff.jpg" alt="">
+                    <img src="https://placehold.co/400" alt="">
                     <div>
                         <h2>James Lancaster</h2>
                         <i>Developer</i>
@@ -54,7 +54,7 @@ $name = $nameArray[$_GET['n']];
                     </div>
                 </div>
                 <div class="teamrow">
-                    <img src="/_assets/staff.jpg" alt="">
+                    <img src="https://placehold.co/400" alt="">
                     <div>
                         <h2>Joe Bloggs</h2>
                         <i>Lead Designer</i>
@@ -62,7 +62,7 @@ $name = $nameArray[$_GET['n']];
                     </div>
                 </div>
                 <div class="teamrow">
-                    <img src="/_assets/staff.jpg" alt="">
+                    <img src="https://placehold.co/400" alt="">
                     <div>
                         <h2>Jane Doe</h2>
                         <i>Hosting Manager</i>
@@ -73,7 +73,7 @@ $name = $nameArray[$_GET['n']];
                 <h2>Other people of note</h2>
 
                 <div class="teamrow">
-                    <img src="/_assets/staff.jpg" alt="">
+                    <img src="https://placehold.co/400" alt="">
                     <div>
                         <h2>Stuart Barns</h2>
                         <i>Manager Director</i>
